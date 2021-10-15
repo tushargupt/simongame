@@ -1,1 +1,2 @@
 # simongame
+Try it out!
